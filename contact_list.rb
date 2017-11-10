@@ -45,7 +45,7 @@ end
 while true
     case contact
     when 1
-        puts @arr.join("\n")
+        puts @arr
     when 2
         puts contact_input
     when 3

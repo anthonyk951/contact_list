@@ -1,2 +1,3 @@
 *.password
 *.log
+.DS_Store
